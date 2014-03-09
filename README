@@ -2,3 +2,4 @@ make -j* ARCH=arm CROSS_COMPILE=~/ndk/4.4.3/bin/arm-eabi- clean
 make -j* ARCH=arm CROSS_COMPILE=~/ndk/4.4.3/bin/arm-eabi-
 Вместо * кол-во потоков процессора +1
 Instead * of the number of threads Processor
+https://github.com/Daniil2017/toolchains
